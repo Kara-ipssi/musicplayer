@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971998366621",
+    "project_id": "karazzic",
+    "storage_bucket": "karazzic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971998366621:android:f397630edc151697cdfd74",
+        "android_client_info": {
+          "package_name": "com.example.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971998366621-obl8sscom49ph23s9pb8q6a2497sbnjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCikWjM_LUMZ0cQhGWoPsCY5zzcLNf2OWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971998366621-obl8sscom49ph23s9pb8q6a2497sbnjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
